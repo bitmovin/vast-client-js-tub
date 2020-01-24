@@ -134,7 +134,7 @@ function createCompanionAd() {
     expandedWidth: creativeAttributes.expandedWidth || null,
     expandedHeight: creativeAttributes.expandedHeight || null,
     apiFramework: creativeAttributes.apiFramework || null,
-    adSlotID: creativeAttributes.adSlotID || null,
+    adSlotId: creativeAttributes.adSlotId || null,
     pxratio: creativeAttributes.pxratio || '1',
     renderingMode: creativeAttributes.renderingMode || 'default',
     staticResources: [],
